@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Lecture Videos
+ocw_type: CourseSection
 title: Related Video Lectures
 uid: e0ea5281-28d8-a624-388d-a079ca1ce048
 ---
@@ -29,7 +32,7 @@ LECTURE NOTES
 
 {{< theadclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 
 
 Introduction to Dynamic Programming (DP)
@@ -49,7 +52,7 @@ Introduction to Dynamic Programming (DP)
 
 
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 [Lecture 1 (PDF)]({{< baseurl >}}/resources/mit6_231f15_lec1-1)
 {{< tdclose >}}
 
@@ -67,7 +70,7 @@ Introduction to Dynamic Programming (DP)
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 
 
 Review of Discounted Problem Theory, Shorthand Notation
@@ -84,7 +87,7 @@ Review of Discounted Problem Theory, Shorthand Notation
 {{< tdopen >}}
 [Approximate Dynamic Programming, Lecture 2, Part 1]({{< baseurl >}}/resources/approximate-dynamic-programming-lecture-2-part-1)
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 [Lecture 2 (PDF)]({{< baseurl >}}/resources/mit6_231f15_lec2-1)
 {{< tdclose >}}
 
@@ -102,7 +105,7 @@ Review of Discounted Problem Theory, Shorthand Notation
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 
 
 General Issues of Approximation and Simulation for Large-Scale Problems
@@ -117,7 +120,7 @@ General Issues of Approximation and Simulation for Large-Scale Problems
 {{< tdopen >}}
 [Approximate Dynamic Programming, Lecture 3, Part 1]({{< baseurl >}}/resources/approximate-dynamic-programming-lecture-3-part-1)
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 [Lecture 3 (PDF)]({{< baseurl >}}/resources/mit6_231f15_lec3-1)
 {{< tdclose >}}
 
@@ -129,7 +132,7 @@ General Issues of Approximation and Simulation for Large-Scale Problems
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 
 
 Approximate Policy Iteration based on Temporal Differences, Projected Equations, Galerkin Approximation
@@ -147,7 +150,7 @@ Approximate Policy Iteration based on Temporal Differences, Projected Equations,
 {{< tdopen >}}
 [Approximate Dynamic Programming, Lecture 4, Part 1]({{< baseurl >}}/resources/approximate-dynamic-programming-lecture-4-part-1)
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 [Lecture 4 (PDF)]({{< baseurl >}}/resources/mit6_231f15_lec4-1)
 {{< tdclose >}}
 
@@ -159,7 +162,7 @@ Approximate Policy Iteration based on Temporal Differences, Projected Equations,
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 
 
 Aggregation Methods
@@ -175,7 +178,7 @@ Aggregation Methods
 {{< tdopen >}}
 [Approximate Dynamic Programming, Lecture 5, Part 1]({{< baseurl >}}/resources/approximate-dynamic-programming-lecture-5-part-1)
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 [Lecture 5 (PDF)]({{< baseurl >}}/resources/mit6_231f15_lec5-1)
 {{< tdclose >}}
 
@@ -193,7 +196,7 @@ Aggregation Methods
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 
 
 Q-Learning, Approximation in Policy Space
@@ -211,7 +214,7 @@ Q-Learning, Approximation in Policy Space
 {{< tdopen >}}
 [Approximate Dynamic Programming, Lecture 6, Part 1]({{< baseurl >}}/resources/approximate-dynamic-programming-lecture-6-part-1)
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 [Lecture 6 (PDF)]({{< baseurl >}}/resources/mit6_231f15_lec6-1)
 {{< tdclose >}}
 
