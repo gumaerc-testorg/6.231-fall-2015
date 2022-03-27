@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Related Video Lectures
 parent_type: CourseSection
+parent_uid: e0ea5281-28d8-a624-388d-a079ca1ce048
 resourcetype: Document
 title: Approximate Dynamic Programming, Lecture 4
 uid: 924829f3-1656-bd1c-16c9-b4b1f8a984f6

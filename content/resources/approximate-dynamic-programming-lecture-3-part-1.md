@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: Approximate Dynamic Programming, Lecture 3, Part 1
 uid: fba160f9-4c96-b583-9987-b0ded6fa4328
 video_files:

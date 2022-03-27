@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Slides
 parent_type: CourseSection
+parent_uid: 4b7e0c07-417b-481b-a1c3-11a80d8c2948
 resourcetype: Document
 title: 6.231 Fall 2015 Complete Lecture Notes
 uid: dae6c8dc-a97f-89b4-5bd0-d7877a5433c9

@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Syllabus
 parent_type: CourseSection
+parent_uid: b57036d6-6100-52f3-75cb-f64d1f3ab7e8
 resourcetype: Document
 title: Corrections for Dynamic Programming and Optimal Control
 uid: 82605bf0-9901-6e73-1de6-710f408a8e0d
