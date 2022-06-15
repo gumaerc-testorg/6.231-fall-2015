@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides midterm exams and solutions from several versions
+  of the course.
 learning_resource_types:
 - Exams
 ocw_type: CourseSection
@@ -23,27 +25,9 @@ EXAMS
 {{< tdopen >}}
 
 
-[2015 Midterm (PDF)]({{< baseurl >}}/resources/mit6_231f15_mid_2015)
+{{% resource_link 5f04af4d-4602-81ac-ca9b-40928f9937a4 "2015 Midterm (PDF)" %}}
 
-[2015 Midterm Solutions (PDF)]({{< baseurl >}}/resources/mit6_231f15_mid_2015_sol)
-
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-[2011 Midterm with Solutions (PDF)]({{< baseurl >}}/resources/mit6_231f15_mid_2011_sol)
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-
-
-[2009 Midterm Problems (PDF)]({{< baseurl >}}/resources/mit6_231f15_mid_2009)
-
-[2009 Midterm Solutions (PDF)]({{< baseurl >}}/resources/mit6_231f15_mid_2009_sol)
+{{% resource_link ac489164-d4b7-ba00-dabb-2523538437a2 "2015 Midterm Solutions (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -51,7 +35,25 @@ EXAMS
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[2008 Midterm with Solutions (PDF)]({{< baseurl >}}/resources/mit6_231f15_mid_2008_sol)
+{{% resource_link 24b3fb89-bc5a-8a55-caac-2dabb88817b6 "2011 Midterm with Solutions (PDF)" %}}
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+{{% resource_link 3ae0f31e-c621-43ab-50fb-51add7f38678 "2009 Midterm Problems (PDF)" %}}
+
+{{% resource_link 9f6779a3-2a55-e0f0-05f7-475f563e1249 "2009 Midterm Solutions (PDF)" %}}
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+{{% resource_link a4b69593-ca7b-bf1a-47ea-536ed1a62a8a "2008 Midterm with Solutions (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}

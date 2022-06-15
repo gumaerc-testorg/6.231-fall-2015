@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  on meeting times, prerequisites, readings and resources, course requirements, and
+  grading.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -41,7 +44,7 @@ Bertsekas, Dimitri P._Dynamic Programming and Optimal Control, Volume II: Approx
 
 The two volumes can also be purchased as a set. ISBN: 9781886529083.
 
-[Errata (PDF)]({{< baseurl >}}/resources/mit6_231f15_errata)
+{{% resource_link 82605bf0-9901-6e73-1de6-710f408a8e0d "Errata (PDF)" %}}
 
 Videos from a 6-lecture, 12-hour short course at Tsinghua University, Beijing, China, 2014. Available on the [Tsinghua course site](http://adpthu2014.weebly.com/videos.html) and on [Youtube](http://www.youtube.com/playlist?list=PLiCLbsFQNFAxOmVeqPhI5er1LGf2-L9I4). Based on the course textbook.
 
@@ -53,9 +56,9 @@ A term paper or project will be required, of one of the following types:
 *   Read some of the literature and provide a critical report, with suggestions for further work.
 *   Formulate a new model, motivated by some application that interests you, and study it, analytically or computationally.
 
-There will be short project presentations during exam week. A fairly complete version of your paper needs to be handed in before the presentation. More detailed instructions, together with pointers to the literature and possible topics can be found in the [Project Description]({{< baseurl >}}/pages/projects).
+There will be short project presentations during exam week. A fairly complete version of your paper needs to be handed in before the presentation. More detailed instructions, together with pointers to the literature and possible topics can be found in the {{% resource_link 8de30ceb-1b3d-870d-6b51-084ac0438387 "Project Description" %}}.
 
-There will be one [midterm]({{< baseurl >}}/pages/exams) and 9 [problem sets]({{< baseurl >}}/pages/assignments).
+There will be one {{% resource_link fe86d1f4-43d1-345e-c5b2-d5e243014d13 "midterm" %}} and 9 {{% resource_link b5dc417a-44fb-714a-52ee-5d0860b99b53 "problem sets" %}}.
 
 Grading
 -------

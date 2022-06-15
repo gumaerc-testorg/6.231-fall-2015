@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Related Video Lectures
@@ -25,3 +26,6 @@ video_metadata:
 ---
 
 (This video is from ([Shuvomoy Das Gupta](https://www.youtube.com/watch?v=PR9AVYMmHz8)) on Youtube and is not provided under our ([Creative Commons license](/terms/#cc)).
+
+
+

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/6-231-dynamic-programming-and-stochastic-control-fall-2015/b20673a0309238c422afd4c37a417645_MIT6_231F15_lec03_short.pdf
+file: /courses/6-231-dynamic-programming-and-stochastic-control-fall-2015/b20673a0309238c422afd4c37a417645_MIT6_231F15_lec03_short.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Videos

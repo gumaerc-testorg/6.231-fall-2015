@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides a description of the course project and information
+  on format and length, deadlines, and related resources.
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
@@ -43,4 +45,4 @@ As a general resource, you can check for topics and references in:
 *   Your textbook, particularly Volume II
 *   The textbooks and survey articles listed in the "Notes and Sources" section of Chapters 6 and 7 of Volume II
 *   The research Monograph "[Abstract DP](http://web.mit.edu/dimitrib/www/abstractdp_MIT.html)"
-*   [A List of Project Topics with References (PDF)]({{< baseurl >}}/resources/mit6_231f15_references)
+*   {{% resource_link 9a737b1a-2543-2f70-9ea0-0760767c92eb "A List of Project Topics with References (PDF)" %}}
