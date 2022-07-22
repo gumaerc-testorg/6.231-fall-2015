@@ -1,10 +1,15 @@
 ---
 content_type: page
+description: This section provides the schedule of lecture topics and a complete set
+  of lecture slides for the course.
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Slides
 uid: 4b7e0c07-417b-481b-a1c3-11a80d8c2948
 ---
 
-[Complete Lecture Slides (PDF - 2.9MB)]({{< baseurl >}}/resources/mit6_231f15_notes)
+{{% resource_link dae6c8dc-a97f-89b4-5bd0-d7877a5433c9 "Complete Lecture Slides (PDF - 2.9MB)" %}}
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -27,7 +32,7 @@ TOPICS
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Lecture 1 (PDF)]({{< baseurl >}}/resources/mit6_231f15_lec1)
+{{% resource_link 304cf17d-604e-7746-25da-e63810777264 "Lecture 1 (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -42,7 +47,7 @@ TOPICS
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Lecture 2 (PDF)]({{< baseurl >}}/resources/mit6_231f15_lec2)
+{{% resource_link 2beec55b-0de2-6109-6962-e514febe3b5c "Lecture 2 (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -58,7 +63,7 @@ TOPICS
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Lecture 3 (PDF)]({{< baseurl >}}/resources/mit6_231f15_lec3)
+{{% resource_link 87189f33-8e62-a05e-4a7f-d12198797381 "Lecture 3 (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -74,7 +79,7 @@ TOPICS
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Lecture 4 (PDF)]({{< baseurl >}}/resources/mit6_231f15_lec4)
+{{% resource_link 4e20b928-6f61-18bb-b501-5252102dd028 "Lecture 4 (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -89,7 +94,7 @@ TOPICS
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Lecture 5 (PDF)]({{< baseurl >}}/resources/mit6_231f15_lec5)
+{{% resource_link a78d88f2-a542-0cf6-d413-49b096952740 "Lecture 5 (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -104,7 +109,7 @@ TOPICS
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Lecture 6 (PDF)]({{< baseurl >}}/resources/mit6_231f15_lec6)
+{{% resource_link 8f248e28-12da-e90c-8d6d-9b0a92712a33 "Lecture 6 (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -120,7 +125,7 @@ TOPICS
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Lecture 7 (PDF)]({{< baseurl >}}/resources/mit6_231f15_lec7)
+{{% resource_link 16ea666d-5fa5-965b-ebb0-3ec932d9a640 "Lecture 7 (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -136,7 +141,7 @@ TOPICS
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Lecture 8 (PDF)]({{< baseurl >}}/resources/mit6_231f15_lec8)
+{{% resource_link 33112a48-8f35-e588-22c1-46198cc41528 "Lecture 8 (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -155,7 +160,7 @@ TOPICS
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Lecture 9 (PDF)]({{< baseurl >}}/resources/mit6_231f15_lec9)
+{{% resource_link 5839a092-4a3a-8aac-2413-fff653a1a8d4 "Lecture 9 (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -181,7 +186,7 @@ TOPICS
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Lecture 10 (PDF)]({{< baseurl >}}/resources/mit6_231f15_lec10)
+{{% resource_link 9994ed9e-4524-4c01-80c5-6d830d3716fe "Lecture 10 (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -198,7 +203,7 @@ TOPICS
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Lecture 11 (PDF)]({{< baseurl >}}/resources/mit6_231f15_lec11)
+{{% resource_link d7c1c33f-4a3f-736d-3438-bb4e904d104e "Lecture 11 (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -213,7 +218,7 @@ TOPICS
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Lecture 12 (PDF)]({{< baseurl >}}/resources/mit6_231f15_lec12)
+{{% resource_link cfb0cf1e-05c3-6bb6-8fe2-8433d1b3eea5 "Lecture 12 (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -229,7 +234,7 @@ TOPICS
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Lecture 13 (PDF)]({{< baseurl >}}/resources/mit6_231f15_lec13)
+{{% resource_link a5a298dc-62ad-93f6-b833-e583acd0cad3 "Lecture 13 (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -251,7 +256,7 @@ TOPICS
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Lecture 14 (PDF)]({{< baseurl >}}/resources/mit6_231f15_lec14)
+{{% resource_link 25f136d7-6392-9df0-b7ce-8db0fcbf4303 "Lecture 14 (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -264,7 +269,7 @@ TOPICS
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Lecture 15 (PDF)]({{< baseurl >}}/resources/mit6_231f15_lec15)
+{{% resource_link ec7b70a7-7571-e2f2-c48a-5a0fa5fa23d5 "Lecture 15 (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -282,7 +287,7 @@ TOPICS
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Lecture 16 (PDF)]({{< baseurl >}}/resources/mit6_231f15_lec16)
+{{% resource_link e2666fa0-0f9a-df05-bce2-482a35d1cf0b "Lecture 16 (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -300,7 +305,7 @@ TOPICS
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Lecture 17 (PDF)]({{< baseurl >}}/resources/mit6_231f15_lec17)
+{{% resource_link d70106b7-f8fd-529d-2976-a360eb395425 "Lecture 17 (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -318,7 +323,7 @@ TOPICS
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Lecture 18 (PDF)]({{< baseurl >}}/resources/mit6_231f15_lec18)
+{{% resource_link 2542e594-eb25-4acf-c669-df3ea0e2b0a2 "Lecture 18 (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -335,7 +340,7 @@ TOPICS
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Lecture 19 (PDF)]({{< baseurl >}}/resources/mit6_231f15_lec19)
+{{% resource_link 99f96fbd-7ff4-047d-84ef-269974f7e78b "Lecture 19 (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -351,7 +356,7 @@ TOPICS
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Lecture 20 (PDF)]({{< baseurl >}}/resources/mit6_231f15_lec20)
+{{% resource_link a41ead69-a95f-7b33-f97d-545b98bb0c53 "Lecture 20 (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -371,7 +376,7 @@ TOPICS
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Lecture 21 (PDF)]({{< baseurl >}}/resources/mit6_231f15_lec21)
+{{% resource_link 4b989272-5f2b-2d9d-58e6-c13ee9d4cb44 "Lecture 21 (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -388,7 +393,7 @@ TOPICS
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Lecture 22 (PDF)]({{< baseurl >}}/resources/mit6_231f15_lec22)
+{{% resource_link 12a07eae-88c2-5518-2a46-1e73a9ea7a7e "Lecture 22 (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -404,7 +409,7 @@ TOPICS
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Lecture 23 (PDF)]({{< baseurl >}}/resources/mit6_231f15_lec23)
+{{% resource_link edc58c3e-4184-add6-2dcc-4fb2bb581be1 "Lecture 23 (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 
