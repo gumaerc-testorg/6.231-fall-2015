@@ -6,6 +6,7 @@ file: /courses/6-231-dynamic-programming-and-stochastic-control-fall-2015/dae6c8
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Slides
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 6.231 Fall 2015 Complete Lecture Notes
 uid: dae6c8dc-a97f-89b4-5bd0-d7877a5433c9
 ---
 This resource contains the information regarding 6.231 fall 2015 complete lecture notes.
-
