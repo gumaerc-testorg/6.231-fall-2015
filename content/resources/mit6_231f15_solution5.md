@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/6-231-dynamic-programming-and-stochastic-control-fall-2015/02f6b0774b8bd32a4e33d8a67e2f3bcd_MIT6_231F15_Solution5.pdf
+file_size: 218415
 file_type: application/pdf
 learning_resource_types:
 - Assignments
