@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/6-231-dynamic-programming-and-stochastic-control-fall-2015/7fedb9102067cc59468bc5503ef32cf9_MIT6_231F15_Solution3.pdf
+file: /courses/6-231-dynamic-programming-and-stochastic-control-fall-2015/7fedb9102067cc59468bc5503ef32cf9_MIT6_231F15_Solution3.pdf
 file_size: 666989
 file_type: application/pdf
 learning_resource_types:
