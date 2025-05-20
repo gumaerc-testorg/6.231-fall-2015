@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information regarding dynamic programming and
   stochastic control homework 8.
-file: /ol-ocw-studio-app/courses/6-231-dynamic-programming-and-stochastic-control-fall-2015/86668e5782e67fc4bd9b9248337fa922_MIT6_231F15_Homework8.pdf
+file: /courses/6-231-dynamic-programming-and-stochastic-control-fall-2015/86668e5782e67fc4bd9b9248337fa922_MIT6_231F15_Homework8.pdf
 file_size: 158259
 file_type: application/pdf
 learning_resource_types:
