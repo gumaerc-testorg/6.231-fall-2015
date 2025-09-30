@@ -46,7 +46,7 @@ The two volumes can also be purchased as a set. ISBN: 9781886529083.
 
 {{% resource_link 82605bf0-9901-6e73-1de6-710f408a8e0d "Errata (PDF)" %}}
 
-Videos from a 6-lecture, 12-hour short course at Tsinghua University, Beijing, China, 2014. Available on the [Tsinghua course site](http://adpthu2014.weebly.com/videos.html) and on [Youtube](http://www.youtube.com/playlist?list=PLiCLbsFQNFAxOmVeqPhI5er1LGf2-L9I4). Based on the course textbook.
+Videos from a 6-lecture, 12-hour short course at Tsinghua University, Beijing, China, 2014. Available on the {{% resource_link "175b7d1c-4b6d-404f-b116-16ca9f3bc02d" "Tsinghua course site" %}} and on {{% resource_link "151700bb-fab2-413e-98b0-e621a95336f9" "Youtube" %}}. Based on the course textbook.
 
 Course Requirements
 -------------------

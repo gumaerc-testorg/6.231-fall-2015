@@ -44,5 +44,5 @@ As a general resource, you can check for topics and references in:
 
 *   Your textbook, particularly Volume II
 *   The textbooks and survey articles listed in the "Notes and Sources" section of Chapters 6 and 7 of Volume II
-*   The research Monograph "[Abstract DP](http://web.mit.edu/dimitrib/www/abstractdp_MIT.html)"
+*   The research Monograph "{{% resource_link "ce5afd65-b106-42ad-92cb-bca2d9bad204" "Abstract DP" %}}"
 *   {{% resource_link 9a737b1a-2543-2f70-9ea0-0760767c92eb "A List of Project Topics with References (PDF)" %}}

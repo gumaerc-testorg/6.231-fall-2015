@@ -27,5 +27,5 @@ video_metadata:
   youtube_id: PR9AVYMmHz8
 ---
 
-(This video is from ([Shuvomoy Das Gupta](https://www.youtube.com/watch?v=PR9AVYMmHz8)) on Youtube and is not provided under our ([Creative Commons license](/terms/#cc)).
+(This video is from ({{% resource_link "c5222abe-f1fa-443e-bc5b-faca8872d2cd" "Shuvomoy Das Gupta" %}}) on Youtube and is not provided under our ([Creative Commons license](/terms/#cc)).
 
