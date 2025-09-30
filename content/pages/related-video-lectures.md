@@ -16,9 +16,9 @@ uid: e0ea5281-28d8-a624-388d-a079ca1ce048
 
 These videos and lecture notes are from a 6-lecture, 12-hour short course on Approximate Dynamic Programming, taught by Professor Dimitri P. Bertsekas at Tsinghua University in Beijing, China in June 2014. They focus primarily on the advanced research-oriented issues of large scale infinite horizon dynamic programming, which corresponds to lectures 11-23 of the MIT 6.231 course.
 
-The complete set of lecture notes are available here: {{% resource_link 36fc4cba-abe5-0444-6b51-adb8a68f5958 "Complete Slides (PDF - 1.6MB)" %}}, and are also divided by lecture below. Additional supporting material can be obtained on [Prof. Bertsekas' web site](http://web.mit.edu/dimitrib/www/publ.html).
+The complete set of lecture notes are available here: {{% resource_link 36fc4cba-abe5-0444-6b51-adb8a68f5958 "Complete Slides (PDF - 1.6MB)" %}}, and are also divided by lecture below. Additional supporting material can be obtained on {{% resource_link "06e9f549-bcd8-4aa8-9e16-cdf6802fb9ff" "Prof. Bertsekas' web site" %}}.
 
-**Note To OCW Users**: All videos are from [Shuvomoy Das Gupta](https://www.youtube.com/playlist?list=PLiCLbsFQNFAxOmVeqPhI5er1LGf2-L9I4) on Youtube and are not provided under our [Creative Commons License](/terms/#cc).
+**Note To OCW Users**: All videos are from {{% resource_link "28f32068-997d-499d-a71e-7c39c5b4c0bb" "Shuvomoy Das Gupta" %}} on Youtube and are not provided under our [Creative Commons License](/terms/#cc).
 
 {{< tableopen >}}
 {{< theadopen >}}
